@@ -4,7 +4,7 @@ A simple portfolio made with Bootstrap.
 
 ## Technologies Used
 
-<img src="https://github.com/kbwats/ReadMe/blob/master/html.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/css.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/javascript.png"> 
+<img src="https://github.com/kbwats/ReadMe/blob/master/html.png"> <img src="https://github.com/kbwats/ReadMe/blob/master/css.png"> 
 
 ## Installation
 
